@@ -12,7 +12,7 @@ namespace EncoderCalibration
         public string szID;
         public int iLvl; // = new int();
         public const int ANGPIC = 50;
-        public const int LGITPIC = 30;
+        public const int LGITPIC = 20;
     }
 
     public class SysVar
