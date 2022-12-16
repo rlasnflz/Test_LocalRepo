@@ -15,6 +15,7 @@ namespace gittest
         public Form1()
         {
             InitializeComponent();
+              
         }
     }
 }
